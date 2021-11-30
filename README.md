@@ -1,6 +1,8 @@
-## Getting Started
+# Exam AFP 2021
+Esame Java AFP G.Marconi Rovereto 2021
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Start the projects
+> Go to the `src` folder and directly ***execute*** the `Main.java` file.
 
 ## Folder Structure
 
@@ -16,3 +18,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
